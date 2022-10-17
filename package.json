@@ -1,0 +1,8 @@
+{
+  "name": "github-actions",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:togglejohn/pepelsbey.dev.git",
+  "author": "Viktor Desiatkin <viktor.desiatkin@semrush.com>",
+  "license": "MIT"
+}
